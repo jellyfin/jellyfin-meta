@@ -20,3 +20,7 @@
 <img alt="Join our Subreddit" src="https://img.shields.io/badge/reddit-r%2Fjellyfin-%23FF5700.svg"/>
 </a>
 </p>
+
+---
+
+Jellyfin Meta hosts discussion topics across multiple repostories like tracking release issues or discussing new features that need to be implemented in multiple clients. Discussions meant for individual projects are hosted inside their respective repositories.
