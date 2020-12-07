@@ -23,4 +23,4 @@
 
 ---
 
-Jellyfin Meta hosts discussion topics across multiple repostories like tracking release issues or discussing new features that need to be implemented in multiple clients. Discussions meant for individual projects are hosted inside their respective repositories.
+Jellyfin Meta hosts discussion topics across multiple repostories, for instance tracking release issues, discussing new wide-ranging features that affect multiple sub-projects, etc. Discussions meant for individual projects are hosted inside their respective repositories.
