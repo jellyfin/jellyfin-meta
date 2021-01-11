@@ -10,7 +10,7 @@ This document outlines the steps that should be taken to nominate and accept a n
 
 1. Nominations should reflect the following 4 goals:
 
-  a) Nominees should demonstrate a consistent, high-quality contribution to the project, e.g. in supporting users, contributing good code, or making & improving clients.
+  a) Nominees should demonstrate a consistent, high-quality contribution to the project, e.g. in supporting users, contributing good code, or making & improving clients. While a specific threshold of contributions is not always possible, the nominee should have displayed at least several notable acts, and at least a few successfully merged pull requests or compatable activity in other places.
   b) Nominees should demonstrate respect for our values, a commitment to FLOSS development and a desire to see Jellyfin succeed.
   c) Nominees should be in good standing with the team and community and respect for the rules and community guidelines of the project.
   d) Nominees should be willing to contribute to the more mundane tasks (e.g. PR reviews) if they have not already demonstrated a desire to do so - with power comes responsibility.
