@@ -10,10 +10,13 @@ This document outlines the steps that should be taken to nominate and accept a n
 
 1. Nominations should reflect the following 4 goals:
 
-  a) Nominees should demonstrate a consistent, high-quality contribution to the project, e.g. in supporting users, contributing good code, or making & improving clients. While a specific threshold of contributions is not always possible, the nominee should have displayed at least several notable acts, and at least a few successfully merged pull requests or comparable activity in other places.
-  b) Nominees should demonstrate respect for our values, a commitment to FLOSS development and a desire to see Jellyfin succeed.
-  c) Nominees should be in good standing with the team and community and respect for the rules and community guidelines of the project.
-  d) Nominees should be willing to contribute to the more mundane tasks (e.g. PR reviews) if they have not already demonstrated a desire to do so - with power comes responsibility.
+   a) Nominees should demonstrate a consistent, high-quality contribution to the project, e.g. in supporting users, contributing good code, or making & improving clients. While a specific threshold of contributions is not always possible, the nominee should have displayed at least several notable acts, and at least a few successfully merged pull requests or comparable activity in other places.
+
+   b) Nominees should demonstrate respect for our values, a commitment to FLOSS development and a desire to see Jellyfin succeed.
+
+   c) Nominees should be in good standing with the team and community and respect for the rules and community guidelines of the project.
+
+   d) Nominees should be willing to contribute to the more mundane tasks (e.g. PR reviews) if they have not already demonstrated a desire to do so - with power comes responsibility.
 
 1. Once a contributor has selected a nominee, the issue should be put to a discussion in #jellyfin-support-team. At least one Core team member should approve the decision, though this may be waived with overwhelming team support (barring blatant violations of the conditions of #2). Please include details of why this nominee and what you think they bring to the team.
 
