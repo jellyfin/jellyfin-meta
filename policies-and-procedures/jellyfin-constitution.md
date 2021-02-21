@@ -8,12 +8,18 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 1. The Jellyfin Project is organized into a heirarchical structure with the following layers, which shall be defined in more detail below:
 
-      i. The Project Leader
-     ii. The Leadership Team
+    i. The Project Leader
+
+    ii. The Leadership Team
+
     iii. The Financial Committee
-     iv. Subproject Leaders
-      v. Technical Committees
-     vi. The Contributor Function Teams
+
+    iv. Subproject Leaders
+
+    v. Technical Committees
+
+    vi. The Contributor Function Teams
+
     vii. The Contributor Team as a whole
 
 2. In the list above, a person or body is usually listed before any people or bodies whose decisions they can overrule or who they (help) appoint - but not everyone listed earlier can overrule everyone listed later.
