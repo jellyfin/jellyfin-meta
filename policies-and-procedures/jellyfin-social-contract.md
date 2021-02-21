@@ -10,7 +10,7 @@ Based heavily on the Debian Social Contract, available at https://www.debian.org
 
 Jellyfin is and will remain 100% free software. This includes both software freedom as defined by the Free Software Foundation in [The Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en), as well as cost. The Jellyfin project will not charge any amount of money for the software it provides.
 
-*In human terms*: We are free as in beer and free as in cost forever.
+*In human terms*: We are both free as in speech, and free as in beer, forever.
 
 2. Jellyfin will remain funded entirely by donations.
 
