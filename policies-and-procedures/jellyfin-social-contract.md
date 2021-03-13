@@ -24,7 +24,7 @@ Jellyfin is built entirely and exclusively by volunteer contributors who donate 
 
 *In human terms*: We are all volunteers and will always remain so.
 
-4. Jellyfin will give back to the free software community 
+4. Jellyfin will give back to the free software community.
 
 Jellyfin builds upon other free software components such as FFmpeg, and will contribute back to that community as much as possible.
 
