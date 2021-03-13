@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Jellyfin Constitution
 
 Draft 1 of Version 1.0, 2021-02
