@@ -118,7 +118,7 @@ Based heavily on the [Debian Constitution](https://www.debian.org/devel/constitu
 
     iv. For sub-projects that, at the time of the adoption of this condition, do not already have a clear Subproject Leader, elections shall be held by the existing contributors to select the Subproject Leader. The method of election shall be ranked voting instant runoff until one candidate has secured an absolute majority of the vote.
 
-2. There shall always be exactly one Subproject Leader for any given project.
+2. There may be either one Subproject Leader, or two Subproject Co-Leaders for larger subprojets, for any given sub-project. Co-Leaders shall share all powers but should strive for consesnsus decisions.
 
 3. New Subproject Leaders shall be selected by the Project Leader, in consultation with the Leadership Team and existing sub-project contributors, as required.
 
