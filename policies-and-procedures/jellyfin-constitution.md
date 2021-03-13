@@ -2,7 +2,7 @@
 
 Draft 1 of Version 1.0, 2021-02
 
-Based on the Debian Constitution, available at https://www.debian.org/devel/constitution
+Based heavily on the [Debian Constitution](https://www.debian.org/devel/constitution).
 
 ## General Organizational Structure and Principles
 

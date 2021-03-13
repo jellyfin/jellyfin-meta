@@ -2,7 +2,7 @@
 
 Draft 1 of Version 1.0, 2021-02
 
-Based heavily on the Debian Social Contract, available at https://www.debian.org/social_contract
+Based heavily on the [Debian Social Contract](https://www.debian.org/social_contract).
 
 ## "Social Contract" with the Jellyfin Community
 
