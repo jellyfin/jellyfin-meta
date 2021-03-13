@@ -26,13 +26,13 @@ Jellyfin is built entirely and exclusively by volunteer contributors who donate 
 
 4. Jellyfin will give back to the free software community 
 
-Jellyfin builds upon other free software components such as FFMpeg, and will contribute back to that community as much as possible.
+Jellyfin builds upon other free software components such as FFmpeg, and will contribute back to that community as much as possible.
 
 *In human terms*: If we modify something from an upstream, we will always offer it back.
 
 5. Jellyfin will not hide problems
 
-Jellyfin will keep its bug reporting open for public view at all times, via GitHub issues. The sole exception is to facilitate private disclosure of serious security vulnerabilities which may affect public installations of Jellyfin, which should be made directly to the Core team via email or Matrix chat to coodinate disclosure in as short a timeframe as possible. We welcome fixes to bugs from anyone as a good first contribution.
+Jellyfin will keep its bug reporting open for public view at all times, via GitHub issues. The sole exception is to facilitate private disclosure of serious security vulnerabilities which may affect public installations of Jellyfin, which should be made directly to the Core team via email or Matrix chat to coordinate disclosure in as short a time-frame as possible. We welcome fixes to bugs from anyone as a good first contribution.
 
 *In human terms*: We will not hide bugs from the public, but keep them open and encourage fixes.
 
@@ -44,7 +44,7 @@ Jellyfin's priority is to our users, which includes most of our contributors as 
 
 7. Jellyfin's contributors will treat each other and our users with respect
 
-All participants in the Jellyfin project must abide by our [community standards](community-standards.md) at all times, and maintain a respectful atmosphere for all. Disagreements are inevitible, and we encourage them to be settled by discussion, consensus-building, and democratic decision-making.
+All participants in the Jellyfin project must abide by our [community standards](community-standards.md) at all times, and maintain a respectful atmosphere for all. Disagreements are inevitable, and we encourage them to be settled by discussion, consensus-building, and democratic decision-making.
 
 *In human terms*: Remember the human at all times, we are all people too.
 

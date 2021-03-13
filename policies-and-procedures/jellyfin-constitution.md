@@ -1,4 +1,4 @@
-# Jellyfin Consitution
+# Jellyfin Constitution
 
 Draft 1 of Version 1.0, 2021-02
 
@@ -6,7 +6,7 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 ## General Organizational Structure and Principles
 
-1. The Jellyfin Project is organized into a heirarchical structure with the following layers, which shall be defined in more detail below:
+1. The Jellyfin Project is organized into a hierarchical structure with the following layers, which shall be defined in more detail below:
 
     i. The Project Leader
 
@@ -36,13 +36,13 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 #### Powers
 
-1. The Project Leader is reposible for the overall management of the project direction and releases. They are bound by the terms of the Jellyfin Social Contract as much as any other member, and embody the spirit and goals of this social contract.
+1. The Project Leader is responsible for the overall management of the project direction and releases. They are bound by the terms of the Jellyfin Social Contract as much as any other member, and embody the spirit and goals of this social contract.
 
 2. The Project Leader is the final arbiter in any disputes or decisions raised from lower teams and persons where such a decision cannot be reached by more collaborative means within the teams themselves.
 
 3. The Project Leader shall generally take a hands-off approach to day-to-day project decisions, delegating responsibility for these to the lower teams and persons.
 
-4. The Project Leader shall also function as Release Manager for the core server, handling the coordination and creation of new releases of the Jellyfin server software. Creation of releases for clients or subcomponents is delegated to their respective Function Teams.
+4. The Project Leader shall also function as Release Manager for the core server, handling the coordination and creation of new releases of the Jellyfin server software. Creation of releases for clients or sub-components is delegated to their respective Function Teams.
 
 5. The Project Leader must always be a member of both the Leadership Team and the Financial Committee.
 
@@ -52,9 +52,9 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 2. The Project Leader shall serve indefinitely at their discretion, but may resign at any time.
 
-3. Upon resignation or indisposal of the Project Leader, one or more candidates for the position shall be proposed by the Leadership Team. A vote shall then be held by all members of the Jellyfin Contrbutor Team to confirm or select the chosen candidate(s). The method of election shall be ranked voting instant runoff until one candidate has secured an absolute majority of the vote. In the event that only a single candidate is proposed, and this candidate does not gain a majority of votes amongst the Contributor Team, the outgoing Project Leader shall cast a deciding vote to confirm or deny the candidate outright. If the outgoing Project Leader does not confirm the candidate, the process shall begin again and the previous candidate is inelligible for further consideration.
+3. Upon resignation or in-disposal of the Project Leader, one or more candidates for the position shall be proposed by the Leadership Team. A vote shall then be held by all members of the Jellyfin Contributor Team to confirm or select the chosen candidate(s). The method of election shall be ranked voting instant runoff until one candidate has secured an absolute majority of the vote. In the event that only a single candidate is proposed, and this candidate does not gain a majority of votes among the Contributor Team, the outgoing Project Leader shall cast a deciding vote to confirm or deny the candidate outright. If the outgoing Project Leader does not confirm the candidate, the process shall begin again and the previous candidate is ineligible for further consideration.
 
-4. The Project Leader may at their discretion appoint a temporary Interim Project Leader to handle their duties due to short-term absense or for the duration of a Projet Leader election.
+4. The Project Leader may at their discretion appoint a temporary Interim Project Leader to handle their duties due to short-term absence or for the duration of a Project Leader election.
 
 ### Leadership Team ("Core")
 
@@ -64,7 +64,7 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 2. The Leadership Team is the only group with "Merge" permissions for the core server repositories, and are responsible for the merging of reviewed and approved Pull Requests into those repositories. All code changes must thus require implicit or explicit approval of a member of the Leadership Team.
 
-3. The Leadership Team should at all times provide a unified front for decisions, working under the principle of democratic centralism - lively debate and disagreement within the team is encouraged during decisionmaking, but decisions should be accepted and promulaged by the team as a unified entity without public disagreement. If internal decisionmaking fails, the decision shall fall to the Project Leader instead.
+3. The Leadership Team should at all times provide a unified front for decisions, working under the principle of democratic centralism - lively debate and disagreement within the team is encouraged during decision-making, but decisions should be accepted and promulgated by the team as a unified entity without public disagreement. If internal decision-making fails, the decision shall fall to the Project Leader instead.
 
 #### Procedure
 
@@ -98,29 +98,29 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 #### Powers
 
-1. Subproject Leaders are those members of the team with a leadership role in guiding a particular subproject. While the Project Leader guides the project as a whole, Subproject Leaders guide individual subprojects in a similar fashion. A subproject is any component of the Jellyfin ecosystem, under the Jellyfin Organization, which is not a part of the core server itself. This includes clients, libraries for 3rd party projects, or other similar repositories for which the Project Leader delegates this responsbility.
+1. Subproject Leaders are those members of the team with a leadership role in guiding a particular sub-project. While the Project Leader guides the project as a whole, Subproject Leaders guide individual sub-projects in a similar fashion. A sub-project is any component of the Jellyfin ecosystem, under the Jellyfin Organization, which is not a part of the core server itself. This includes clients, libraries for 3rd party projects, or other similar repositories for which the Project Leader delegates this responsibility.
 
-2. Subproject Leaders are responsible for the day-to-day operations of their subproject and the handling of technical and managerial decisions for the subproject. For the purposes of all decisions pertaining to the subproject exclusively, the Subproject Leader shall be responsible for the final decision, in consultation with the Project Leader if necessary.
+2. Subproject Leaders are responsible for the day-to-day operations of their sub-project and the handling of technical and managerial decisions for the sub-project. For the purposes of all decisions pertaining to the sub-project exclusively, the Subproject Leader shall be responsible for the final decision, in consultation with the Project Leader if necessary.
 
-3. Subproject Leaders shall have Admin privileges to the subproject repositories they manage and have the power to assign permissions on the subproject to other team members, for instance merge permissions, at their discretion.
+3. Subproject Leaders shall have Admin privileges to the sub-project repositories they manage and have the power to assign permissions on the sub-project to other team members, for instance merge permissions, at their discretion.
 
-4. Subproject Leaders should seek consensus wherever possible with other contributors to the subproject, however they are empowered to make decisions as required. Disputes may be escalated to the Leadership Team or Project Leader if desired for further decision and resolution. As outlined in power #2, the Subproject Leader shall have the final say in any decision reached here.
+4. Subproject Leaders should seek consensus wherever possible with other contributors to the sub-project, however they are empowered to make decisions as required. Disputes may be escalated to the Leadership Team or Project Leader if desired for further decision and resolution. As outlined in power #2, the Subproject Leader shall have the final say in any decision reached here.
 
 #### Procedure
 
-1. The initial Subproject Leader for a subproject shall be determined depending on the source of the subproject.
+1. The initial Subproject Leader for a sub-project shall be determined depending on the source of the sub-project.
 
-     i. For subprojects that originate amongst the existing Jellyfin Project, for instance split-out libraries, or are forks of other projects, the subproject leader shall be determined by the Project Leader in consultation with the Leadership Team at the time the project is integrated into the Jellyfin Organization.
+     i. For Subproject that originate among the existing Jellyfin Project, for instance split-out libraries, or are forks of other projects, the sub-project leader shall be determined by the Project Leader in consultation with the Leadership Team at the time the project is integrated into the Jellyfin Organization.
 
-    ii. For subprojects that originate as the sole work of an existing Jellyfin Team member, that person shall become Subproject Leader at the time the project is transferred to the Jellyfin Organization.
+    ii. For sub-projects that originate as the sole work of an existing Jellyfin Team member, that person shall become Subproject Leader at the time the project is transferred to the Jellyfin Organization.
 
-   iii. For subprojects that originate as the sole work of an outside contributor who desires to make the project a subproject of the Jellyfin Organization, that person shall become a member of the Jellyfin Team, subject to standard nomination rules for Team Members, and shall become Subproject Leader at the time the project is transferred to the Jellyfin Organization. If nomination of the member fails for any reason, the project shall not be integrated into the Jellyfin Organization and shall remain a 3rd-party project.
+   iii. For sub-projects that originate as the sole work of an outside contributor who desires to make the project a sub-project of the Jellyfin Organization, that person shall become a member of the Jellyfin Team, subject to standard nomination rules for Team Members, and shall become Subproject Leader at the time the project is transferred to the Jellyfin Organization. If nomination of the member fails for any reason, the project shall not be integrated into the Jellyfin Organization and shall remain a 3rd-party project.
 
-    iv. For subprojects that, at the time of the adoption of this consitution, do not already have a clear Subproject Leader, elections shall be held by the existing contributors to select the Subproject Leader. The method of election shall be ranked voting instant runoff until one candidate has secured an absolute majority of the vote.
+    iv. For sub-projects that, at the time of the adoption of this condition, do not already have a clear Subproject Leader, elections shall be held by the existing contributors to select the Subproject Leader. The method of election shall be ranked voting instant runoff until one candidate has secured an absolute majority of the vote.
 
 2. There shall always be exactly one Subproject Leader for any given project.
 
-3. New Subproject Leaders shall be selected by the Project Leader, in consultation with the Leadership Team and existing subproject contributors, as required.
+3. New Subproject Leaders shall be selected by the Project Leader, in consultation with the Leadership Team and existing sub-project contributors, as required.
 
 ### Technical Committees
 
@@ -132,7 +132,7 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 3. Technical Committees shall make all decisions by consensus, and a consensus opinion shall be considered binding. In the case that a consensus cannot be reached, the decision shall be escalated to the Project Leader for a final decision. The Project Leader shall take into consideration the technical merits of the opposing sides when making this decision.
 
-4. The exact list and nature of the Technical Committees shall be subject to decision by the Project Leader and Leadership Team as required, and Technical Committees shall be created or disolved as needed by the project as a whole.
+4. The exact list and nature of the Technical Committees shall be subject to decision by the Project Leader and Leadership Team as required, and Technical Committees shall be created or dissolved as needed by the project as a whole.
 
 ### Contributor Function Teams
 
@@ -140,7 +140,7 @@ Based on the Debian Constitution, available at https://www.debian.org/devel/cons
 
 1. The Contributor Function Teams constitute the bulk of project members, and all new members in the Jellyfin Organization must be a member of at least one Function Team. A member may be a part of any number of Function Teams based on their skill-set and experience.
 
-2. Members of Function Teams are responsible for the review of code Pull Requests and maintenance of Issues within their designated subprojects.
+2. Members of Function Teams are responsible for the review of code Pull Requests and maintenance of Issues within their designated sub-projects.
 
 #### Procedure
 
