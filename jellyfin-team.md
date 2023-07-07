@@ -34,14 +34,14 @@
 | CI | [h1dden-da3m0n](https://github.com/h1dden-da3m0n) |
 | Expo (iOS) | [thornbill](https://github.com/thornbill) |
 | FFmpeg | [Nyanmisaka](https://github.com/nyanmisaka) |
-| Jellyfin Media Player | [Ian Walton](https://github.com/iwalton3) |
+| Jellyfin Media Player | [Izzie Walton](https://github.com/iwalton3) |
 | Kodi | [mcarlton00](https://github.com/mcarlton00), [Odd Stråbø](https://github.com/oddstr13) |
 | Kotlin SDK | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Mopidy | [mcarlton00](https://github.com/mcarlton00) |
-| MPV Shim | [Ian Walton](https://github.com/iwalton3) |
+| MPV Shim | [Izzie Walton](https://github.com/iwalton3) |
 | Plugins | [Cody Robibero](https://github.com/crobibero) |
 | Roku | [Neil Burrows](https://github.com/neilsb) |
-| Swiftfin | [Aiden](https://github.com/acvigue) |
+| Swiftfin | [Ethan Pippin](https://github.com/lepips) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
 
 ## Contributor Team
