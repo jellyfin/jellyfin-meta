@@ -10,10 +10,10 @@
 * [Andrew Rabert](https://github.com/nvllsvm)
 * [Anthony Lavado](https://github.com/anthonylavado)
 * [Bond-009](https://github.com/Bond-009)
-* [dkanada](https://github.com/dkanada)
 * [cvium](https://github.com/cvium)
 * [thornbill](https://github.com/thornbill)
 * [Cody Robibero](https://github.com/crobibero)
+* [Niels van Velzen](https://github.com/nielsvanvelzen)
 
 ## Financial Committee
 
