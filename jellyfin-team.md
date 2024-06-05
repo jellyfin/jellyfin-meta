@@ -30,8 +30,7 @@
 | Project | Leaders |
 |:-:|:-:|
 | Android | [Max Rumpf](https://github.com/Maxr1998), [Niels van Velzen](https://github.com/nielsvanvelzen) |
-| Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen), [thornbill](https://github.com/thornbill) |
-| CI | [h1dden-da3m0n](https://github.com/h1dden-da3m0n) |
+| Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Expo (iOS) | [thornbill](https://github.com/thornbill) |
 | FFmpeg | [Nyanmisaka](https://github.com/nyanmisaka) |
 | Jellyfin Media Player | [Izzie Walton](https://github.com/iwalton3) |
@@ -42,6 +41,7 @@
 | Plugins | [Cody Robibero](https://github.com/crobibero) |
 | Roku | [Neil Burrows](https://github.com/neilsb) |
 | Swiftfin | [Ethan Pippin](https://github.com/lepips) |
+| TypeScript SDK | [thornbill](https://github.com/thornbill) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
 
 ## Contributor Team
