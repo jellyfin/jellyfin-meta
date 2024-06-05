@@ -1,38 +1,25 @@
 # Jellyfin Team
 
-## Project Leader
-
-* [Joshua Boniface](https://github.com/joshuaboniface)
-
 ## Leadership Team ("Core")
 
-* [Joshua Boniface](https://github.com/joshuaboniface)
-* [Andrew Rabert](https://github.com/nvllsvm)
-* [Anthony Lavado](https://github.com/anthonylavado)
-* [Bond-009](https://github.com/Bond-009)
-* [cvium](https://github.com/cvium)
-* [thornbill](https://github.com/thornbill)
-* [Cody Robibero](https://github.com/crobibero)
-* [Niels van Velzen](https://github.com/nielsvanvelzen)
-
-## Financial Committee
-
-* [Joshua Boniface](https://github.com/joshuaboniface)
-* [Andrew Rabert](https://github.com/nvllsvm)
-* [Anthony Lavado](https://github.com/anthonylavado)
-
-## Release Manager
-
-* [Joshua Boniface](https://github.com/joshuaboniface)
+| Person | Contact | Role(s) |
+|---|---|---|
+| Joshua Boniface | [GitHub](https://github.com/joshuaboniface) [Matrix](https://matrix.to/#/@joshuaboniface:bonifacelabs.ca) [Email](mailto:joshua@boniface.me) | **Project Leader**, Packaging, Releases, Finance, Infrastructure |
+| Anthony Lavado | [GitHub](https://github.com/anthonylavado) | Social Media, Outreach, Finance |
+| Andrew Rabert  | [GitHub](https://github.com/nvllsvm) | Finance |
+| Bond-009 | [GitHub](https://github.com/Bond-009) | Server |
+| Claus Vium | [GitHub](https://github.com/cvium) | Server |
+| Bill Thornton | [GitHub](https://github.com/thornbill) | Web |
+| Cody Robibero | [GitHub](https://github.com/crobibero) | Server, Plugins |
+| Niels van Velzen | [GitHub](https://github.com/nielsvanvelzen) | Clients |
 
 ## Subproject Leaders
 
 | Project | Leaders |
 |:-:|:-:|
 | Android | [Max Rumpf](https://github.com/Maxr1998), [Niels van Velzen](https://github.com/nielsvanvelzen) |
-| Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen), [thornbill](https://github.com/thornbill) |
-| CI | [h1dden-da3m0n](https://github.com/h1dden-da3m0n) |
-| Expo (iOS) | [thornbill](https://github.com/thornbill) |
+| Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen) |
+| Expo (iOS) | [Bill Thornton](https://github.com/thornbill) |
 | FFmpeg | [Nyanmisaka](https://github.com/nyanmisaka) |
 | Jellyfin Media Player | [Izzie Walton](https://github.com/iwalton3) |
 | Kodi | [mcarlton00](https://github.com/mcarlton00), [Odd Stråbø](https://github.com/oddstr13) |
@@ -42,6 +29,7 @@
 | Plugins | [Cody Robibero](https://github.com/crobibero) |
 | Roku | [Neil Burrows](https://github.com/neilsb) |
 | Swiftfin | [Ethan Pippin](https://github.com/lepips) |
+| TypeScript SDK | [Bill Thornton](https://github.com/thornbill) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
 
 ## Contributor Team
