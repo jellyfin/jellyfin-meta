@@ -15,22 +15,34 @@
 
 ## Subproject Leaders
 
-| Project | Leaders |
+### Clients
+
+| Project | Leader(s) |
 |:-:|:-:|
 | Android | [Max Rumpf](https://github.com/Maxr1998), [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Expo (iOS) | [Bill Thornton](https://github.com/thornbill) |
-| FFmpeg | [Nyanmisaka](https://github.com/nyanmisaka) |
 | Jellyfin Media Player | [Izzie Walton](https://github.com/iwalton3) |
 | Kodi | [mcarlton00](https://github.com/mcarlton00), [Odd Stråbø](https://github.com/oddstr13) |
-| Kotlin SDK | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Mopidy | [mcarlton00](https://github.com/mcarlton00) |
 | MPV Shim | [Izzie Walton](https://github.com/iwalton3) |
-| Plugins | [Cody Robibero](https://github.com/crobibero) |
 | Roku | [Neil Burrows](https://github.com/neilsb) |
 | Swiftfin | [Ethan Pippin](https://github.com/lepips) |
-| TypeScript SDK | [Bill Thornton](https://github.com/thornbill) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
+
+### SDKs
+
+| Project | Leader(s) |
+|:-:|:-:|
+| Kotlin SDK | [Niels van Velzen](https://github.com/nielsvanvelzen) |
+| TypeScript SDK | [Bill Thornton](https://github.com/thornbill) |
+
+### Others
+
+| Project | Leader(s) |
+|:-:|:-:|
+| FFmpeg | [Nyanmisaka](https://github.com/nyanmisaka) |
+| Plugins | [Cody Robibero](https://github.com/crobibero) |
 
 ## Contributor Team
 
