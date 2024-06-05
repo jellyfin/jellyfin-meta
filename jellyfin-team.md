@@ -15,7 +15,7 @@
 
 ## Subproject Leaders
 
-### Client
+### Clients
 
 | Project | Leader(s) |
 |:-:|:-:|
@@ -30,14 +30,14 @@
 | Swiftfin | [Ethan Pippin](https://github.com/lepips) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
 
-### SDK
+### SDKs
 
 | Project | Leader(s) |
 |:-:|:-:|
 | Kotlin SDK | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | TypeScript SDK | [Bill Thornton](https://github.com/thornbill) |
 
-### Other
+### Others
 
 | Project | Leader(s) |
 |:-:|:-:|
