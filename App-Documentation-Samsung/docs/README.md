@@ -27,15 +27,15 @@ Release
 
 ## Documentation for project response sections
 
-- [Section 1 - UI Structure](/App-Documentation-Samsung/docs/App-UI-Description/1-UI-Structure/README.md)
+- [Section 1 - UI Structure](/docs/App-UI-Description/1-UI-Structure/README.md)
 
-- [Section 2 - Use Cases](/App-Documentation-Samsung/docs/App-UI-Description/2-Use-Cases/README.md)
+- [Section 2 - Use Cases](/docs/App-UI-Description/2-Use-Cases/README.md)
 
-- [Section 3 - Menus and Functions](/App-Documentation-Samsung/docs/App-UI-Description/3-Menus-and-Functions/README.md)
+- [Section 3 - Menus and Functions](/docs/App-UI-Description/3-Menus-and-Functions/README.md)
 
-- [Section 4 - Remote Control Keys](/App-Documentation-Samsung/docs/App-UI-Description/4-Remote-Control-Keys/README.md)
+- [Section 4 - Remote Control Keys](/docs/App-UI-Description/4-Remote-Control-Keys/README.md)
 
-- [Section 5 - Language Options](/App-Documentation-Samsung/docs/App-UI-Description/5-Language-Options/README.md)
+- [Section 5 - Language Options](/docs/App-UI-Description/5-Language-Options/README.md)
 
 ## Certification & Verification
 
