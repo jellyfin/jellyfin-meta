@@ -29,4 +29,4 @@ This folder contains documentation and screenshots for the Samsung store app lis
 It is split into subfolders for each area of the certification process, the readme in the "docs" folder is cross linked to other documentation areas.
 
 
-Initial work was carried out in this <a><a href="https://jellyfin.org">pull request</a> Then migrated over to here for storage and to keep the app repo clear.
+Initial work was carried out in this <a><a href="https://github.com/jellyfin/jellyfin-tizen/pull/307#issuecomment-2567142677">pull request</a> Then migrated over to here for storage and to keep the app repo clear.
