@@ -19,7 +19,7 @@
 
 | Project | Leader(s) |
 |:-:|:-:|
-| Android | [Max Rumpf](https://github.com/Maxr1998), [Niels van Velzen](https://github.com/nielsvanvelzen) |
+| Android | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Android TV | [Niels van Velzen](https://github.com/nielsvanvelzen) |
 | Expo (iOS) | [Bill Thornton](https://github.com/thornbill) |
 | Jellyfin Media Player | [Izzie Walton](https://github.com/iwalton3) |
