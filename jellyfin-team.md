@@ -29,6 +29,7 @@
 | Roku | [Neil Burrows](https://github.com/neilsb) |
 | Swiftfin | [Ethan Pippin](https://github.com/lepips) |
 | Vue | [Fernando Fernández](https://github.com/ferferga), [Thibault Nocchi](https://github.com/ThibaultNocchi) |
+| Jellyfin-For-Xbox | [Jean-Pierre Bachmann](https://github.com/JPVenson) |
 
 ### SDKs
 
