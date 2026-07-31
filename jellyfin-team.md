@@ -4,11 +4,11 @@
 
 | Person | Contact | Role(s) |
 |---|---|---|
+| Niels van Velzen | [GitHub](https://github.com/nielsvanvelzen) | **Project Leader**, Clients |
 | Bond-009 | [GitHub](https://github.com/Bond-009) | Server |
 | Claus Vium | [GitHub](https://github.com/cvium) | Server |
 | Bill Thornton | [GitHub](https://github.com/thornbill) | Web |
 | Cody Robibero | [GitHub](https://github.com/crobibero) | Server, Plugins |
-| Niels van Velzen | [GitHub](https://github.com/nielsvanvelzen) | Clients |
 
 ## Subproject Leaders
 
