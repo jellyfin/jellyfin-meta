@@ -8,7 +8,7 @@
 | Bond-009 | [GitHub](https://github.com/Bond-009) | Server |
 | Claus Vium | [GitHub](https://github.com/cvium) | Server |
 | Bill Thornton | [GitHub](https://github.com/thornbill) | Web |
-| Cody Robibero | [GitHub](https://github.com/crobibero) | Server, Plugins |
+| Cody Robibero | [GitHub](https://github.com/crobibero) | Server, Plugins, Packaging, Releases |
 
 ## Subproject Leaders
 
