@@ -10,6 +10,14 @@
 | Bill Thornton | [GitHub](https://github.com/thornbill) | Web |
 | Cody Robibero | [GitHub](https://github.com/crobibero) | Server, Plugins, Packaging, Releases |
 
+## Financial Committee
+
+| Person |
+|---|
+| Niels van Velzen |
+| Joshua Boniface |
+| Anthony Lavado |
+
 ## Subproject Leaders
 
 ### Clients
